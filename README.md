@@ -1,4 +1,4 @@
-# # Multithreaded Web Crawler using Parallel Computing
+# Multithreaded Web Crawler using Parallel Computing
 
 ## Introduction
 
